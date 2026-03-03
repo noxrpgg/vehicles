@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVarGlobal>    
+  <Kits>
+    <id value="8529" />
+    <statMods>
+      <Item>
+        <identifier />
+        <modifier value="5" />
+        <audioApply value="1.000000" />
+        <weight value="0" />
+        <type>VMT_SUSPENSION</type>
+      </Item>
+      <Item>
+        <identifier />
+        <modifier value="10" />
+        <audioApply value="1.000000" />
+        <weight value="0" />
+        <type>VMT_SUSPENSION</type>
+      </Item>
+      <Item>
+        <identifier />
+        <modifier value="15" />
+        <audioApply value="1.000000" />
+        <weight value="0" />
+        <type>VMT_SUSPENSION</type>
+      </Item>
+      <Item>
+        <identifier />
+        <modifier value="25" />
+        <audioApply value="1.000000" />
+        <weight value="0" />
+        <type>VMT_SUSPENSION</type>
+      </Item>
+        </statMods>
+        <slotNames />
+        <liveryNames>
+        </liveryNames>
+      </Item>
+  </statMods>
+  </Kits> 
+  <name>manscull</name>  
+</CVehicleModelInfoVarGlobal>

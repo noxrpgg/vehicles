@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVarGlobal>    
+  <Kits>
+    <Item>
+      <kitName>grottiespanha_modkit</kitName>
+			<id value="20021" />
+			<kitType>MKT_SPECIAL</kitType>
+			<visibleMods>
+				<Item>
+					<modelName>grottiespanha_spoil_1</modelName>
+					<modShopLabel>grottiespanha_spoil_1</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_SPOILER</type>
+					<bone>bodyshell</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>grottiespanha_spoil_2</modelName>
+					<modShopLabel>grottiespanha_spoil_2</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_SPOILER</type>
+					<bone>bodyshell</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>grottiespanha_spoil_3</modelName>
+					<modShopLabel>grottiespanha_spoil_3</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_SPOILER</type>
+					<bone>bodyshell</bone>
+					<collisionBone>mod_col_1</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>grottiespanha_spoil_4</modelName>
+					<modShopLabel>grottiespanha_spoil_4</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_SPOILER</type>
+					<bone>bodyshell</bone>
+					<collisionBone>mod_col_2</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>grottiespanha_skirt1</modelName>
+					<modShopLabel>grottiespanha_skirt1</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>grottiespanha_skirt2</modelName>
+					<modShopLabel>grottiespanha_skirt2</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>grottiespanha_skirt3</modelName>
+					<modShopLabel>grottiespanha_skirt3</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>grottiespanha_skirt4</modelName>
+					<modShopLabel>grottiespanha_skirt4</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_SKIRT</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>grottiespanha_bnt1</modelName>
+					<modShopLabel>grottiespanha_bnt1</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>bonnet</Item>
+					</turnOffBones>
+					<type>VMT_BONNET</type>
+					<bone>bonnet</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>grottiespanha_bnt2</modelName>
+					<modShopLabel>grottiespanha_bnt2</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>bonnet</Item>
+					</turnOffBones>
+					<type>VMT_BONNET</type>
+					<bone>bonnet</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>grottiespanha_bnt3</modelName>
+					<modShopLabel>grottiespanha_bnt3</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>bonnet</Item>
+					</turnOffBones>
+					<type>VMT_BONNET</type>
+					<bone>bonnet</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>grottiespanha_split1</modelName>
+					<modShopLabel>grottiespanha_split1</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_BUMPER_F</type>
+					<bone>bumper_f</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>grottiespanha_split2</modelName>
+					<modShopLabel>grottiespanha_split2</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_BUMPER_F</type>
+					<bone>bumper_f</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>grottiespanha_split3</modelName>
+					<modShopLabel>grottiespanha_split3</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_BUMPER_F</type>
+					<bone>bumper_f</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>grottiespanha_bumr1</modelName>
+					<modShopLabel>grottiespanha_bumr1</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_BUMPER_R</type>
+					<bone>bumper_r</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>grottiespanha_bumr2</modelName>
+					<modShopLabel>grottiespanha_bumr2</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_BUMPER_R</type>
+					<bone>bumper_r</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>grottiespanha_int_roll1</modelName>
+					<modShopLabel>grottiespanha_int_roll1</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_CHASSIS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>grottiespanha_int_roll2</modelName>
+					<modShopLabel>grottiespanha_int_roll2</modShopLabel>
+					<linkedModels />
+					<turnOffBones />
+					<type>VMT_CHASSIS</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+				<Item>
+					<modelName>grottiespanha_ext1</modelName>
+					<modShopLabel>grottiespanha_ext1</modShopLabel>
+					<linkedModels />
+					<turnOffBones>
+						<Item>misc_a</Item>
+					</turnOffBones>
+					<type>VMT_EXHAUST</type>
+					<bone>chassis</bone>
+					<collisionBone>chassis</collisionBone>
+					<cameraPos>VMCP_DEFAULT</cameraPos>
+					<audioApply value="1.000000" />
+					<weight value="20" />
+					<turnOffExtra value="false" />
+					<disableBonnetCamera value="false" />
+					<allowBonnetSlide value="true" />
+				</Item>
+    </Lights>
+</CVehicleModelInfoVarGlobal>
