@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVarGlobal> 
+<Kits>
+	<Item>
+		<kitName>766758_noxbello4hp_modkit</kitName>
+		<id value="766758" />
+		<kitType>MKT_SPECIAL</kitType>
+		<visibleMods>
+			<Item>
+				<modelName>noxbello4hp_hplivery1</modelName>
+				<modShopLabel>noxbello4hp_hplivery1</modShopLabel>
+				<linkedModels />
+				<turnOffBones />
+				<type>VMT_LIVERY_MOD</type>
+				<bone>chassis</bone>
+				<collisionBone>chassis</collisionBone>
+				<cameraPos>VMCP_DEFAULT</cameraPos>
+				<audioApply value="1.000000" />
+				<weight value="20" />
+				<turnOffExtra value="false" />
+				<disableBonnetCamera value="false" />
+				<allowBonnetSlide value="true" />
+			</Item>
+			<Item>
+				<modelName>noxbello4hp_hplivery2</modelName>
+				<modShopLabel>noxbello4hp_hplivery2</modShopLabel>
+				<linkedModels />
+				<turnOffBones />
+				<type>VMT_LIVERY_MOD</type>
+				<bone>chassis</bone>
+				<collisionBone>chassis</collisionBone>
+				<cameraPos>VMCP_DEFAULT</cameraPos>
+				<audioApply value="1.000000" />
+				<weight value="20" />
+				<turnOffExtra value="false" />
+				<disableBonnetCamera value="false" />
+				<allowBonnetSlide value="true" />
+			</Item>
+		</visibleMods>
+		<linkMods/>
+		<slotNames/>
+		<liveryNames/>
+	</Item>
+	</Kits>
+	<Lights>
+		<Item>
+		  <id value="1719131613" />	
+		  <headLight>
+			<intensity value="1.500000" />
+			<falloffMax value="25.000000" />
+			<falloffExponent value="20.000000" />
+			<innerConeAngle value="0.000000" />
+			<outerConeAngle value="60.209999" />
+			<emmissiveBoost value="false" />
+			<color value="0xFFFFFFCC" />
+			<textureName>VehicleLight_car_oldsquare</textureName>
+			<mirrorTexture value="true" />
+		  </headLight>
+		  <headLightCorona>
+			<size value="0.800000" />
+			<size_far value="1.800000" />
+			<intensity value="1.800000" />
+			<intensity_far value="0.800000" />
+			<color value="0xFFFFFFFF" />
+			<numCoronas value="1" />
+			<distBetweenCoronas value="128" />
+			<distBetweenCoronas_far value="255" />
+			<xRotation value="0.000000" />
+			<yRotation value="0.000000" />
+			<zRotation value="0.000000" />
+			<zBias value="0.250000" />
+			<pullCoronaIn value="false" />
+		  </headLightCorona>
+		  <name>a90sh</name>
+		</Item>
+	</Lights>
+</CVehicleModelInfoVarGlobal>
